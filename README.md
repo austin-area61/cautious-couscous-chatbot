@@ -16,3 +16,8 @@ This is a simple chatbot application built using a Flask backend and a React fro
 - **Node.js and npm** (for the frontend)
 - **Flask**: Install using `pip install flask flask-cors`
 - **React**: Generated using `create-react-app`
+
+Future Improvements
+- Integrating a more sophisticated NLP library like spaCy or OpenAI's GPT-3 for advanced chatbot capabilities.
+- Add user authentication and persistence (e.g., storing chat history in a database).
+- Improve the UI with more interactive elements, such as buttons for frequently used responses.
